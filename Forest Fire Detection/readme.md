@@ -4,13 +4,11 @@
 🏗️ О модели
 Используется предобученная модель SigLIP (Sigmoid Loss for Language-Image Pre-training) с Hugging Face:
 
-Модель: prithivMLmods/Forest-Fire-Detection
+Модель: prithivMLmods/Forest-Fire-Detection (https://huggingface.co/prithivMLmods/Forest-Fire-Detection)
 
 Архитектура: SiglipForImageClassification
 
 Задача: Мультиклассовая классификация изображений (3 класса)
-
-Подход: Fine-tuning предобученной модели на датасете лесных пожаров
 
 📊 Датасет
 Для тестирования используется датасет с Kaggle:
